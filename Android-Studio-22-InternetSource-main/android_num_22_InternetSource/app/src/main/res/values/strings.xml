@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android*num*InternetSource*22</string>
+    <string name="Hw22_title">檢查網路來源</string>
+    <string name="btn_source">Check</string>
+</resources>
